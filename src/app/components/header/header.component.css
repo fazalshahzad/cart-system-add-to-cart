@@ -6,7 +6,7 @@
 .search-icon{
     z-index: 10;
     position: absolute;
-    right: 48%;
+    right: 50%;
     color: blue;
-
+    top: 31%;
 }
